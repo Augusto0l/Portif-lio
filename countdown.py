@@ -14,5 +14,4 @@ while t:
     print(timer, end="\r")
     time.sleep(1)
     t = t - 1
-
 print("TEMPO ACABOU!")
