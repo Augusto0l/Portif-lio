@@ -1,7 +1,7 @@
 import random
 import os
 
-new_game = "sim"
+new_game = "sim" 
 
 while new_game == "sim":
 
