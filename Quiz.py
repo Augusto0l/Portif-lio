@@ -13,7 +13,7 @@ while New_Game == "sim":
     else:
         print("\nErrou, Resposta Correta (C)\n")
     
-    print("2- Qual é o nome do oceano que banha a costa oeste da América do Sul?\n (A) Pacífico\n(B) Atlântico\n(C) Índico\n(D) Ártico\n(E) Antártico")
+    print("2- Qual é o nome do oceano que banha a costa oeste da América do Sul?\n(A) Pacífico\n(B) Atlântico\n(C) Índico\n(D) Ártico\n(E) Antártico")
     answer_2 = input("Resposta: ").strip().upper()
     if answer_2 == "A":
         print("\nAcertou!!\n")
@@ -29,7 +29,7 @@ while New_Game == "sim":
     else:
         print("\nErrou, Resposta Correta (C)\n")
     
-    print("4- Qual é o nome do famoso museu de arte em Paris?\n(A) Museus do Vaticano\n(B) Museu Metropolitano de Arte\n(C) Museo Britânico\n(D) Museo Do Louvre")
+    print("4- Qual é o nome do famoso museu de arte em Paris?\n(A) Museu do Vaticano\n(B) Museu Metropolitano de Arte\n(C) Museu Britânico\n(D) Museu Do Louvre")
     answer_4 = input("resposta: ").strip().upper()
     if answer_4 == "D":
         print("\nAcertou!!\n")
@@ -37,7 +37,7 @@ while New_Game == "sim":
     else:
         print("\nErrou!, Resposta Correta (D)\n")
 
-    print("5- Qual é o nome do famoso time de futebol inglês conhecido como The Gunners?\n(A) Arsenal\n(A) Manchester United\n(C) Chelsea\n(D) Liverpool")
+    print("5- Qual é o nome do famoso time de futebol inglês conhecido como The Gunners?\n(A) Arsenal\n(B) Manchester United\n(C) Chelsea\n(D) Liverpool")
     answer_5 = input("resposta: ").strip().upper()
     if answer_5 == "A":
         print("\nAcertou!!\n")
@@ -99,6 +99,5 @@ while New_Game == "sim":
 
 
     
-
 
 
